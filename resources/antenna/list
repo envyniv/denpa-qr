@@ -1,0 +1,47 @@
+always treasure
+attack earth all
+attack earth single
+attack fire all
+attack fire single
+attack ice all
+attack ice single
+attack light all
+attack light single
+attack water all
+attack water single
+attack wind all
+attack wind single
+buff attack all
+buff attack single
+buff defense all
+buff defense single
+buff evasion all
+buff evasion single
+buff excitement
+buff invincible
+buff speed all
+buff speed single
+cure blind
+cure burn
+cure frozen
+cure paralysis
+cure poison
+cure sleep
+debuff attack all
+debuff attack single
+debuff blind
+debuff defense all
+debuff defense single
+debuff fatal
+debuff paralysis
+debuff poison
+debuff sleep
+debuff speed all
+debuff speed single
+double god
+no antenna
+recovery all
+recovery single
+revival all
+revival single
+
